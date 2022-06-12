@@ -1,5 +1,6 @@
 # prng.onchain.js
-A micro JS library (112 bytes) for matrix operations.
+A micro JS implementation (112 bytes) of the Mulberry32 pseudorandom number
+generator.
 
 This library is intended for use in environments where the available storage
 space is very limited; like blockchains for example. Everything is stripped down
