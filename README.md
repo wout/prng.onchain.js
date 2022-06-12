@@ -5,6 +5,8 @@ This library is intended for use in environments where the available storage
 space is very limited; like blockchains for example. Everything is stripped down
 to the bare essentials.
 
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/onchainjs/prng.onchain.js)
+
 ## Usage
 ```js
 // Initialize a random generator for a given seed value
