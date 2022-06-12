@@ -1,0 +1,10 @@
+{
+  "name": "prng.onchain.js",
+  "version": "0.1.0",
+  "description": "A micro JS implementation of the Mulberry32 pseudorandom number generator.",
+  "main": "prng.onchain.js",
+  "repository": "git@github.com:onchainjs/prng.onchain.js.git",
+  "author": "Wout <hi@wout.codes>",
+  "license": "MIT",
+  "type": "module"
+}
